@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TestBLE",
+  "ProjectGuid": "8fc7cf7d-208f-487b-9de9-8b1e2d83b4a3",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestBLE",
+  "DisplayName": "TestBLE",
+  "Author": "",
+  "Description": "TestBLE",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2339cefb-72b3-4711-a761-07691a925861}",
+  "WP8ProductID": "{3f7072ea-36a9-4b5d-aa1e-4e5e478251d8}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TestBLE",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
