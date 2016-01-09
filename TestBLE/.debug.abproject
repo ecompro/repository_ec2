@@ -1,5 +1,6 @@
 {
   "CorePlugins": [
+    "com.megster.cordova.ble@0.1.3",
     "org.apache.cordova.battery-status",
     "org.apache.cordova.camera",
     "org.apache.cordova.console",
