@@ -14,11 +14,13 @@
 </head>
 
 <body id="kendoUiMobileApp">
+    <script src="components/devicesView/index.js"></script>
+    <script src="components/scanView/index.js"></script>
     <script src="components/home/index.js"></script>
     <div data-role="layout" data-id="main">
         <header data-role="header">
             <div data-role="navbar">
-                <span data-role="view-title">MyFirstBLE</span>
+                <span data-role="view-title"></span>
             </div>
         </header>
 
@@ -26,7 +28,8 @@
 
         <footer data-role="footer">
             <div data-role="tabstrip" id="navigation-container">
-                <a href="components/home/view.html" data-icon="home">Home View</a>
+                <a href="components/home/view.html" data-icon="home">Welcome</a>
+                <a href="components/scanView/view.html" data-icon="wifi">BLE</a>
             </div>
         </footer>
     </div>
